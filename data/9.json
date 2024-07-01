@@ -1,0 +1,150 @@
+{
+    "name": "SmartCool X7000 Refrigerator",
+    "sku": "SC-X7000-FRIDGE",
+    "price": 2799.99,
+    "currency": "USD",
+    "category": "Home Appliances",
+    "subcategory": "Refrigerators",
+    "brand": "SmartCool",
+    "model": "X7000",
+    "color": "Stainless Steel",
+    "inStock": true,
+    "quantity": 30,
+    "description": "Advanced smart refrigerator with AI-powered temperature control, touchscreen interface, and internal cameras for food management. Ideal for modern, connected homes.",
+    "type": "French Door",
+    "capacity": {
+      "total": {
+        "value": 26.5,
+        "unit": "cu. ft."
+      },
+      "refrigerator": {
+        "value": 17.5,
+        "unit": "cu. ft."
+      },
+      "freezer": {
+        "value": 9.0,
+        "unit": "cu. ft."
+      }
+    },
+    "energyEfficiency": {
+      "rating": "Energy Star Certified",
+      "annualConsumption": {
+        "value": 624,
+        "unit": "kWh/year"
+      }
+    },
+    "temperatureControl": {
+      "type": "AI-powered",
+      "zones": 4,
+      "range": {
+        "min": -7,
+        "max": 43,
+        "unit": "°F"
+      }
+    },
+    "smartFeatures": [
+      "Wi-Fi connectivity",
+      "Smartphone app control",
+      "Voice assistant compatibility (Alexa, Google Assistant)",
+      "Internal cameras for food monitoring",
+      "Digital grocery list creation",
+      "Recipe suggestions based on fridge contents"
+    ],
+    "display": {
+      "type": "LCD Touchscreen",
+      "size": {
+        "value": 21.5,
+        "unit": "inches"
+      },
+      "resolution": "1920x1080"
+    },
+    "icemaker": {
+      "type": "Built-in",
+      "production": {
+        "value": 3,
+        "unit": "lbs/day"
+      }
+    },
+    "waterDispenser": {
+      "type": "External",
+      "filtration": "Advanced carbon filter"
+    },
+    "shelves": {
+      "material": "Tempered glass",
+      "adjustable": true,
+      "spillProof": true
+    },
+    "lighting": "LED",
+    "compressor": {
+      "type": "Inverter Linear Compressor",
+      "warranty": {
+        "period": 10,
+        "unit": "years"
+      }
+    },
+    "noiseLevelRating": {
+      "value": 41,
+      "unit": "dB"
+    },
+    "dimensions": {
+      "height": 70,
+      "width": 35.75,
+      "depth": 36.25,
+      "unit": "inches"
+    },
+    "weight": {
+      "value": 308,
+      "unit": "lbs"
+    },
+    "powerRequirements": "115V, 60Hz",
+    "finishType": "Fingerprint-resistant",
+    "doorStyle": {
+      "refrigerator": "French door",
+      "freezer": "Pull-out drawer"
+    },
+    "features": [
+      "Door-in-door design",
+      "Humidity-controlled crisper drawers",
+      "Rapid cooling function",
+      "Sabbath mode",
+      "Door open alarm"
+    ],
+    "warranty": {
+      "full": {
+        "period": 2,
+        "unit": "years"
+      },
+      "sealedSystem": {
+        "period": 5,
+        "unit": "years"
+      }
+    },
+    "certifications": [
+      "Energy Star",
+      "UL Listed",
+      "CSA Certified"
+    ],
+    "madeIn": "USA",
+    "ratings": {
+      "average": 4.7,
+      "count": 512
+    },
+    "images": [
+      "https://example.com/images/smartcool-x7000-front.jpg",
+      "https://example.com/images/smartcool-x7000-interior.jpg",
+      "https://example.com/images/smartcool-x7000-app-interface.jpg"
+    ],
+    "manuals": [
+      "https://example.com/manuals/smartcool-x7000-user-guide.pdf",
+      "https://example.com/manuals/smartcool-x7000-installation-guide.pdf"
+    ],
+    "videoReviews": [
+      "https://example.com/videos/smartcool-x7000-expert-review.mp4",
+      "https://example.com/videos/smartcool-x7000-customer-testimonial.mp4"
+    ],
+    "customerSupport": {
+      "phone": "+1-800-555-2345",
+      "email": "support@smartcool.com",
+      "chatbot": "https://smartcool.com/support-chat"
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "name": "UltraBlend Pro 3000",
+    "sku": "UB-PRO-3000",
+    "price": 499.99,
+    "currency": "USD",
+    "category": "Kitchen Appliances",
+    "subcategory": "Blenders",
+    "brand": "KitchenTech",
+    "model": "Pro 3000",
+    "color": "Brushed Stainless Steel",
+    "inStock": true,
+    "quantity": 100,
+    "description": "Professional-grade blender with powerful motor and versatile functions. Perfect for smoothies, soups, nut butters, and more.",
+    "motor": {
+      "power": {
+        "value": 2.2,
+        "unit": "HP"
+      },
+      "peakPower": {
+        "value": 3.5,
+        "unit": "HP"
+      },
+      "voltage": "120V"
+    },
+    "speed": {
+      "variableSpeeds": 10,
+      "presetPrograms": 6
+    },
+    "blades": {
+      "material": "Hardened Stainless Steel",
+      "numberofBlades": 6,
+      "removable": true
+    },
+    "jar": {
+      "capacity": {
+        "value": 64,
+        "unit": "oz"
+      },
+      "material": "BPA-free Tritan",
+      "dishwasherSafe": true
+    },
+    "controlPanel": {
+      "type": "Digital touchscreen",
+      "display": "LCD"
+    },
+    "presetPrograms": [
+      "Smoothie",
+      "Hot Soup",
+      "Frozen Dessert",
+      "Nut Butter",
+      "Dips & Spreads",
+      "Self-Cleaning"
+    ],
+    "features": [
+      "Variable speed control",
+      "Pulse function",
+      "Auto-shutoff",
+      "Overheat protection",
+      "Noise reduction technology",
+      "Tamper included"
+    ],
+    "dimensions": {
+      "height": 20.5,
+      "width": 7.7,
+      "depth": 9.4,
+      "unit": "inches"
+    },
+    "weight": {
+      "value": 13,
+      "unit": "lbs"
+    },
+    "cordLength": {
+      "value": 6,
+      "unit": "feet"
+    },
+    "warranty": {
+      "fullWarranty": {
+        "period": 7,
+        "unit": "years"
+      },
+      "motorWarranty": {
+        "period": 10,
+        "unit": "years"
+      }
+    },
+    "energyEfficiency": {
+      "rating": "A+",
+      "annualConsumption": {
+        "value": 40,
+        "unit": "kWh"
+      }
+    },
+    "noiseLevel": {
+      "value": 70,
+      "unit": "dB"
+    },
+    "inBox": [
+      "UltraBlend Pro 3000 base",
+      "64 oz blending jar",
+      "Lid with removable cap",
+      "Tamper",
+      "User manual",
+      "Recipe book"
+    ],
+    "certifications": [
+      "UL Listed",
+      "FDA Approved",
+      "ETL Certified"
+    ],
+    "madeIn": "USA",
+    "ratings": {
+      "average": 4.8,
+      "count": 1250
+    },
+    "images": [
+      "https://example.com/images/ultrablend-pro-3000-front.jpg",
+      "https://example.com/images/ultrablend-pro-3000-side.jpg",
+      "https://example.com/images/ultrablend-pro-3000-control-panel.jpg"
+    ],
+    "videos": [
+      "https://example.com/videos/ultrablend-pro-3000-demo.mp4",
+      "https://example.com/videos/ultrablend-pro-3000-recipes.mp4"
+    ],
+    "customerSupport": {
+      "phone": "+1-800-555-1234",
+      "email": "support@kitchentech.com",
+      "hours": "Mon-Fri 9AM-5PM EST"
+    }
+}

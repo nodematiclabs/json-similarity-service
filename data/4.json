@@ -1,0 +1,97 @@
+{
+    "name": "ProShot X2000 Digital Camera",
+    "sku": "PS-X2000-BLK",
+    "price": 1299.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "brand": "ProShot",
+    "model": "X2000",
+    "color": "Black",
+    "inStock": true,
+    "quantity": 50,
+    "description": "Professional-grade digital camera with advanced features for both photography and videography. Ideal for enthusiasts and professionals alike.",
+    "type": "Mirrorless",
+    "sensorType": "Full-frame CMOS",
+    "sensorResolution": {
+      "value": 24.2,
+      "unit": "megapixels"
+    },
+    "iso": {
+      "min": 100,
+      "max": 51200,
+      "expandableTo": 204800
+    },
+    "shootingSpeed": {
+      "value": 10,
+      "unit": "fps"
+    },
+    "video": {
+      "maxResolution": "4K",
+      "frameRates": [24, 30, 60]
+    },
+    "screenSize": {
+      "value": 3.5,
+      "unit": "inches"
+    },
+    "screenType": "Articulating touchscreen",
+    "viewfinder": "Electronic",
+    "autofocus": {
+      "type": "Hybrid",
+      "points": 693
+    },
+    "stabilization": "5-axis in-body",
+    "storage": [
+      "Dual SD card slots (UHS-II compatible)"
+    ],
+    "connectivity": [
+      "Wi-Fi",
+      "Bluetooth",
+      "NFC",
+      "USB-C",
+      "HDMI"
+    ],
+    "battery": {
+      "type": "Rechargeable Li-ion",
+      "model": "NP-FZ100",
+      "shots": 710
+    },
+    "dimensions": {
+      "width": 5.2,
+      "height": 3.8,
+      "depth": 2.4,
+      "unit": "inches"
+    },
+    "weight": {
+      "value": 1.5,
+      "unit": "pounds"
+    },
+    "inBox": [
+      "ProShot X2000 Camera Body",
+      "NP-FZ100 Battery",
+      "Battery Charger",
+      "Neck Strap",
+      "USB-C Cable",
+      "User Manual"
+    ],
+    "warranty": {
+      "period": 2,
+      "unit": "years"
+    },
+    "ratings": {
+      "average": 4.8,
+      "count": 325
+    },
+    "images": [
+      "https://example.com/images/proshot-x2000-front.jpg",
+      "https://example.com/images/proshot-x2000-back.jpg",
+      "https://example.com/images/proshot-x2000-top.jpg"
+    ],
+    "features": [
+      "Weather-sealed body",
+      "Real-time Eye AF",
+      "20-bit RAW output",
+      "Custom function buttons",
+      "Advanced color grading options"
+    ]
+}

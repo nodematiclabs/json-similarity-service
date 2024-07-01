@@ -1,0 +1,125 @@
+{
+    "name": "FitTech Pro Smartwatch",
+    "sku": "FTP-SW-2024",
+    "price": 299.99,
+    "currency": "USD",
+    "category": "Wearable Technology",
+    "subcategory": "Smartwatches",
+    "brand": "FitTech",
+    "model": "Pro 2024",
+    "color": "Midnight Blue",
+    "inStock": true,
+    "quantity": 200,
+    "description": "Advanced smartwatch with comprehensive health tracking, GPS, and smart features. Designed for fitness enthusiasts and tech-savvy individuals.",
+    "display": {
+      "type": "AMOLED",
+      "size": {
+        "value": 1.4,
+        "unit": "inches"
+      },
+      "resolution": "454 x 454 pixels",
+      "brightness": {
+        "value": 1000,
+        "unit": "nits"
+      }
+    },
+    "caseSize": {
+      "value": 44,
+      "unit": "mm"
+    },
+    "waterResistance": {
+      "rating": "5 ATM",
+      "depth": {
+        "value": 50,
+        "unit": "meters"
+      }
+    },
+    "sensors": [
+      "Heart rate",
+      "ECG",
+      "SpO2",
+      "Accelerometer",
+      "Gyroscope",
+      "Altimeter",
+      "Ambient light"
+    ],
+    "connectivity": [
+      "Bluetooth 5.0",
+      "Wi-Fi",
+      "NFC",
+      "GPS/GLONASS/Galileo"
+    ],
+    "compatibility": [
+      "iOS 13.0 or later",
+      "Android 8.0 or later"
+    ],
+    "battery": {
+      "capacity": {
+        "value": 420,
+        "unit": "mAh"
+      },
+      "lifespan": {
+        "value": "Up to 7 days",
+        "condition": "with typical use"
+      },
+      "chargingTime": {
+        "value": 2,
+        "unit": "hours"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 32,
+        "unit": "GB"
+      }
+    },
+    "processor": "Quad-core 1.6 GHz",
+    "ram": {
+      "value": 1,
+      "unit": "GB"
+    },
+    "features": [
+      "24/7 heart rate monitoring",
+      "Sleep tracking",
+      "Stress monitoring",
+      "100+ workout modes",
+      "Built-in GPS",
+      "Voice assistant",
+      "Contactless payments",
+      "Music storage and control",
+      "Customizable watch faces"
+    ],
+    "materials": {
+      "case": "Aerospace-grade aluminum",
+      "screen": "Corning Gorilla Glass 3",
+      "strap": "Silicone"
+    },
+    "dimensions": {
+      "length": 44,
+      "width": 38,
+      "thickness": 10.7,
+      "unit": "mm"
+    },
+    "weight": {
+      "value": 36,
+      "unit": "grams"
+    },
+    "inBox": [
+      "FitTech Pro Smartwatch",
+      "Magnetic charging cable",
+      "User manual"
+    ],
+    "warranty": {
+      "period": 1,
+      "unit": "year"
+    },
+    "ratings": {
+      "average": 4.7,
+      "count": 1562
+    },
+    "images": [
+      "https://example.com/images/fittech-pro-front.jpg",
+      "https://example.com/images/fittech-pro-side.jpg",
+      "https://example.com/images/fittech-pro-back.jpg"
+    ]
+}

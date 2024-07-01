@@ -1,0 +1,170 @@
+{
+    "name": "SkyMaster X-1 Pro Drone",
+    "sku": "SM-X1PRO-DRONE",
+    "price": 1499.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Drones",
+    "brand": "SkyMaster",
+    "model": "X-1 Pro",
+    "color": "Matte Black",
+    "inStock": true,
+    "quantity": 50,
+    "description": "Professional-grade quadcopter drone with advanced camera capabilities, long flight time, and intelligent flight modes. Ideal for aerial photography and videography.",
+    "flightPerformance": {
+      "maxFlightTime": {
+        "value": 34,
+        "unit": "minutes"
+      },
+      "maxSpeed": {
+        "value": 45,
+        "unit": "mph"
+      },
+      "maxWindResistance": {
+        "value": 10.5,
+        "unit": "m/s"
+      },
+      "maxAltitude": {
+        "value": 6000,
+        "unit": "meters"
+      },
+      "operatingTemperature": {
+        "min": -10,
+        "max": 40,
+        "unit": "°C"
+      }
+    },
+    "camera": {
+      "sensor": "1-inch CMOS",
+      "resolution": {
+        "photo": "20 MP",
+        "video": "5.4K at 30fps, 4K at 60fps"
+      },
+      "lens": {
+        "focalLength": "24mm",
+        "aperture": "f/2.8"
+      },
+      "iso": {
+        "photo": {
+          "min": 100,
+          "max": 12800
+        },
+        "video": {
+          "min": 100,
+          "max": 6400
+        }
+      },
+      "stabilization": "3-axis gimbal"
+    },
+    "transmissionSystem": {
+      "maxTransmissionDistance": {
+        "value": 12,
+        "unit": "km"
+      },
+      "operatingFrequency": [
+        "2.4 GHz",
+        "5.8 GHz"
+      ],
+      "maxVideoBitrate": {
+        "value": 50,
+        "unit": "Mbps"
+      }
+    },
+    "intelligentFeatures": [
+      "ActiveTrack 4.0",
+      "POI 3.0",
+      "Waypoints",
+      "Follow Me",
+      "TapFly",
+      "Obstacle Avoidance"
+    ],
+    "battery": {
+      "capacity": {
+        "value": 5200,
+        "unit": "mAh"
+      },
+      "type": "LiPo 4S",
+      "chargingTime": {
+        "value": 90,
+        "unit": "minutes"
+      }
+    },
+    "remoteController": {
+      "operatingRange": {
+        "value": 12,
+        "unit": "km"
+      },
+      "batteryLife": {
+        "value": 4,
+        "unit": "hours"
+      },
+      "display": "5.5-inch 1080p touchscreen"
+    },
+    "storage": {
+      "internalStorage": {
+        "value": 8,
+        "unit": "GB"
+      },
+      "expandableStorage": "Supports microSD up to 256GB"
+    },
+    "dimensions": {
+      "length": 354,
+      "width": 354,
+      "height": 84,
+      "unit": "mm"
+    },
+    "weight": {
+      "value": 905,
+      "unit": "grams"
+    },
+    "foldable": true,
+    "waterResistance": "IPX4",
+    "inBox": [
+      "SkyMaster X-1 Pro Drone",
+      "Remote Controller",
+      "3x Intelligent Flight Battery",
+      "6x Propellers (3 pairs)",
+      "Battery Charger",
+      "Power Cable",
+      "Gimbal Protector",
+      "USB-C Cable",
+      "Carrying Case"
+    ],
+    "warranty": {
+      "period": 1,
+      "unit": "year"
+    },
+    "software": {
+      "appCompatibility": [
+        "iOS 11.0 or later",
+        "Android 6.0 or later"
+      ],
+      "features": [
+        "Flight planning",
+        "Image editing",
+        "Social sharing"
+      ]
+    },
+    "certifications": [
+      "FCC",
+      "CE",
+      "ROHS"
+    ],
+    "ratings": {
+      "average": 4.9,
+      "count": 328
+    },
+    "images": [
+      "https://example.com/images/skymaster-x1-pro-flying.jpg",
+      "https://example.com/images/skymaster-x1-pro-folded.jpg",
+      "https://example.com/images/skymaster-x1-pro-controller.jpg"
+    ],
+    "videos": [
+      "https://example.com/videos/skymaster-x1-pro-demo.mp4",
+      "https://example.com/videos/skymaster-x1-pro-features.mp4"
+    ],
+    "manuals": [
+      "https://example.com/manuals/skymaster-x1-pro-user-guide.pdf",
+      "https://example.com/manuals/skymaster-x1-pro-quick-start.pdf"
+    ]
+}

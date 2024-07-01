@@ -1,0 +1,193 @@
+{
+    "name": "TechForce Titan X Gaming Desktop",
+    "sku": "TF-TITAN-X-DESKTOP",
+    "price": 2999.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "TechForce",
+    "model": "Titan X",
+    "type": "Gaming Desktop",
+    "inStock": true,
+    "quantity": 50,
+    "description": "High-performance gaming desktop with top-tier components, customizable RGB lighting, and advanced cooling system. Designed for hardcore gamers and content creators.",
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i9-13900K",
+      "cores": 24,
+      "threads": 32,
+      "baseClockSpeed": {
+        "value": 3.0,
+        "unit": "GHz"
+      },
+      "boostClockSpeed": {
+        "value": 5.8,
+        "unit": "GHz"
+      },
+      "cache": {
+        "value": 36,
+        "unit": "MB"
+      }
+    },
+    "graphics": {
+      "brand": "NVIDIA",
+      "model": "GeForce RTX 4090",
+      "memory": {
+        "value": 24,
+        "unit": "GB"
+      },
+      "memoryType": "GDDR6X"
+    },
+    "ram": {
+      "capacity": {
+        "value": 64,
+        "unit": "GB"
+      },
+      "type": "DDR5",
+      "speed": {
+        "value": 5600,
+        "unit": "MHz"
+      },
+      "expandableTo": {
+        "value": 128,
+        "unit": "GB"
+      }
+    },
+    "storage": [
+      {
+        "type": "NVMe SSD",
+        "capacity": {
+          "value": 2,
+          "unit": "TB"
+        },
+        "interface": "PCIe 4.0"
+      },
+      {
+        "type": "HDD",
+        "capacity": {
+          "value": 4,
+          "unit": "TB"
+        },
+        "rpm": 7200
+      }
+    ],
+    "motherboard": {
+      "brand": "ASUS",
+      "model": "ROG Maximus Z790 Hero",
+      "chipset": "Intel Z790",
+      "formFactor": "ATX"
+    },
+    "powerSupply": {
+      "wattage": {
+        "value": 1000,
+        "unit": "W"
+      },
+      "efficiency": "80+ Platinum",
+      "modular": true
+    },
+    "cooling": {
+      "type": "Liquid cooling",
+      "radiatorSize": {
+        "value": 360,
+        "unit": "mm"
+      }
+    },
+    "case": {
+      "brand": "TechForce",
+      "model": "Titan Tower",
+      "type": "Full Tower",
+      "material": "Tempered Glass and Aluminum"
+    },
+    "operatingSystem": "Windows 11 Pro",
+    "connectivity": {
+      "ethernet": "2.5 Gigabit Ethernet",
+      "wifi": "Wi-Fi 6E",
+      "bluetooth": "Bluetooth 5.2"
+    },
+    "ports": {
+      "front": [
+        "2 x USB 3.2 Gen 2 Type-A",
+        "1 x USB 3.2 Gen 2x2 Type-C",
+        "1 x 3.5mm Audio Jack"
+      ],
+      "rear": [
+        "4 x USB 3.2 Gen 2 Type-A",
+        "1 x USB 3.2 Gen 2x2 Type-C",
+        "2 x USB 2.0",
+        "1 x HDMI 2.1",
+        "3 x DisplayPort 1.4",
+        "5 x Audio Jacks",
+        "1 x Optical S/PDIF Out"
+      ]
+    },
+    "expansionSlots": [
+      "3 x PCIe 4.0 x16",
+      "1 x PCIe 4.0 x4"
+    ],
+    "rgb": {
+      "customizable": true,
+      "software": "TechForce RGB Control Center"
+    },
+    "dimensions": {
+      "height": 22,
+      "width": 9.5,
+      "depth": 21,
+      "unit": "inches"
+    },
+    "weight": {
+      "value": 35,
+      "unit": "lbs"
+    },
+    "powerConsumption": {
+      "idle": {
+        "value": 65,
+        "unit": "W"
+      },
+      "load": {
+        "value": 750,
+        "unit": "W"
+      }
+    },
+    "noiseLevel": {
+      "idle": {
+        "value": 28,
+        "unit": "dB"
+      },
+      "load": {
+        "value": 38,
+        "unit": "dB"
+      }
+    },
+    "bundledSoftware": [
+      "TechForce Command Center",
+      "3-month Xbox Game Pass for PC"
+    ],
+    "warranty": {
+      "period": 3,
+      "unit": "years",
+      "type": "Limited hardware warranty with on-site service"
+    },
+    "energyEfficiency": "ENERGY STAR certified",
+    "ratings": {
+      "average": 4.9,
+      "count": 276
+    },
+    "images": [
+      "https://example.com/images/techforce-titan-x-front.jpg",
+      "https://example.com/images/techforce-titan-x-interior.jpg",
+      "https://example.com/images/techforce-titan-x-rear.jpg"
+    ],
+    "videos": [
+      "https://example.com/videos/techforce-titan-x-showcase.mp4",
+      "https://example.com/videos/techforce-titan-x-benchmark.mp4"
+    ],
+    "manuals": [
+      "https://example.com/manuals/techforce-titan-x-user-guide.pdf",
+      "https://example.com/manuals/techforce-titan-x-quick-start.pdf"
+    ],
+    "customerSupport": {
+      "phone": "+1-800-555-3456",
+      "email": "support@techforce.com",
+      "livechat": "https://techforce.com/support-chat"
+    }
+}

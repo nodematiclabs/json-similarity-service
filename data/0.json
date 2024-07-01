@@ -1,0 +1,159 @@
+{
+    "name": "TechPro Titan Gaming Laptop",
+    "sku": "TP-TITAN-GL15",
+    "price": 1999.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "subcategory": "Computers",
+    "brand": "TechPro",
+    "model": "Titan GL15",
+    "inStock": true,
+    "quantity": 75,
+    "description": "High-performance gaming laptop featuring the latest hardware for smooth gameplay and immersive experiences. Ideal for serious gamers and content creators.",
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i9-13900HX",
+      "cores": 24,
+      "baseClockSpeed": {
+        "value": 2.2,
+        "unit": "GHz"
+      },
+      "turboBoostSpeed": {
+        "value": 5.4,
+        "unit": "GHz"
+      }
+    },
+    "graphics": {
+      "brand": "NVIDIA",
+      "model": "GeForce RTX 4080",
+      "vram": {
+        "value": 16,
+        "unit": "GB"
+      },
+      "type": "GDDR6X"
+    },
+    "memory": {
+      "capacity": {
+        "value": 32,
+        "unit": "GB"
+      },
+      "type": "DDR5",
+      "speed": {
+        "value": 4800,
+        "unit": "MHz"
+      },
+      "expandableTo": {
+        "value": 64,
+        "unit": "GB"
+      }
+    },
+    "storage": [
+      {
+        "type": "NVMe SSD",
+        "capacity": {
+          "value": 1,
+          "unit": "TB"
+        }
+      },
+      {
+        "type": "HDD",
+        "capacity": {
+          "value": 2,
+          "unit": "TB"
+        },
+        "rpm": 7200
+      }
+    ],
+    "display": {
+      "size": {
+        "value": 15.6,
+        "unit": "inches"
+      },
+      "resolution": "2560 x 1440",
+      "refreshRate": {
+        "value": 240,
+        "unit": "Hz"
+      },
+      "technology": "IPS",
+      "features": [
+        "G-Sync",
+        "100% DCI-P3 color gamut"
+      ]
+    },
+    "keyboard": {
+      "type": "Mechanical",
+      "backlight": "RGB per-key"
+    },
+    "ports": [
+      "3 x USB 3.2 Gen 2 Type-A",
+      "1 x Thunderbolt 4",
+      "1 x HDMI 2.1",
+      "1 x Ethernet",
+      "1 x 3.5mm audio jack"
+    ],
+    "connectivity": {
+      "wifi": "Wi-Fi 6E",
+      "bluetooth": "Bluetooth 5.2"
+    },
+    "audio": {
+      "speakers": "Stereo speakers with DTS:X Ultra",
+      "microphone": "Dual-array microphone"
+    },
+    "webcam": {
+      "resolution": "1080p",
+      "features": [
+        "IR sensor for Windows Hello"
+      ]
+    },
+    "battery": {
+      "capacity": {
+        "value": 99.9,
+        "unit": "Wh"
+      },
+      "lifespan": "Up to 5 hours of gaming"
+    },
+    "cooling": {
+      "type": "Advanced Cooling System",
+      "features": [
+        "Vapor chamber",
+        "Liquid metal thermal compound",
+        "4 exhaust vents"
+      ]
+    },
+    "operatingSystem": "Windows 11 Home",
+    "dimensions": {
+      "width": 359,
+      "depth": 266,
+      "height": 23.9,
+      "unit": "mm"
+    },
+    "weight": {
+      "value": 2.4,
+      "unit": "kg"
+    },
+    "inBox": [
+      "TechPro Titan Gaming Laptop",
+      "240W AC adapter",
+      "User manual"
+    ],
+    "warranty": {
+      "period": 2,
+      "unit": "years"
+    },
+    "ratings": {
+      "average": 4.8,
+      "count": 387
+    },
+    "images": [
+      "https://example.com/images/techpro-titan-front.jpg",
+      "https://example.com/images/techpro-titan-open.jpg",
+      "https://example.com/images/techpro-titan-side.jpg"
+    ],
+    "features": [
+      "VR-ready",
+      "Ray tracing support",
+      "AI-enhanced graphics",
+      "Customizable performance modes",
+      "Thunderbolt 4 support"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "name": "Organic Green Tea",
+    "sku": "OGT-1001",
+    "price": 12.99,
+    "currency": "USD",
+    "category": "Food & Beverages",
+    "subcategory": "Tea",
+    "brand": "NaturalLeaf",
+    "origin": "Japan",
+    "type": "Loose leaf",
+    "inStock": true,
+    "quantity": 500,
+    "description": "Premium organic green tea sourced from the highlands of Japan. Rich in antioxidants with a smooth, refreshing taste.",
+    "ingredients": [
+      "100% Organic Green Tea Leaves"
+    ],
+    "servingSize": {
+      "value": 2,
+      "unit": "grams"
+    },
+    "servingsPerContainer": 50,
+    "nutritionalInfo": {
+      "calories": 0,
+      "caffeine": {
+        "value": 28,
+        "unit": "mg"
+      }
+    },
+    "brewingInstructions": [
+      "Use 2g of tea per 8 oz of water",
+      "Heat water to 175°F (80°C)",
+      "Steep for 2-3 minutes"
+    ],
+    "packageSize": {
+      "value": 100,
+      "unit": "grams"
+    },
+    "certifications": [
+      "USDA Organic",
+      "Fair Trade"
+    ],
+    "flavourProfile": [
+      "Grassy",
+      "Slightly sweet",
+      "Umami"
+    ],
+    "bestBefore": {
+      "period": 18,
+      "unit": "months"
+    },
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight",
+    "ratings": {
+      "average": 4.8,
+      "count": 723
+    },
+    "images": [
+      "https://example.com/images/green-tea-package.jpg",
+      "https://example.com/images/green-tea-leaves.jpg",
+      "https://example.com/images/brewed-green-tea.jpg"
+    ]
+}

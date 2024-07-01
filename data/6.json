@@ -1,0 +1,118 @@
+{
+    "name": "SonicMaster Pro Electric Guitar",
+    "sku": "SM-PRO-EG-01",
+    "price": 1299.99,
+    "currency": "USD",
+    "category": "Musical Instruments",
+    "subcategory": "Guitars",
+    "brand": "SonicMaster",
+    "model": "Pro Series",
+    "color": "Sunburst",
+    "inStock": true,
+    "quantity": 25,
+    "description": "Professional-grade electric guitar with premium components and versatile tonal options. Perfect for experienced players and recording artists.",
+    "bodyStyle": "Stratocaster",
+    "bodyMaterial": "Alder",
+    "bodyFinish": "Gloss Polyurethane",
+    "neckMaterial": "Maple",
+    "neckProfile": "Modern C",
+    "fretboardMaterial": "Rosewood",
+    "fretboardRadius": {
+      "value": 12,
+      "unit": "inches"
+    },
+    "scaleLength": {
+      "value": 25.5,
+      "unit": "inches"
+    },
+    "frets": {
+      "number": 22,
+      "type": "Medium Jumbo"
+    },
+    "inlays": "Pearloid Dot",
+    "neckJoint": "Bolt-on",
+    "bridge": {
+      "type": "2-Point Tremolo",
+      "material": "Stainless Steel"
+    },
+    "pickups": [
+      {
+        "position": "Bridge",
+        "type": "Humbucker",
+        "model": "SonicMaster High Output"
+      },
+      {
+        "position": "Middle",
+        "type": "Single-coil",
+        "model": "SonicMaster Vintage"
+      },
+      {
+        "position": "Neck",
+        "type": "Single-coil",
+        "model": "SonicMaster Vintage"
+      }
+    ],
+    "pickupConfiguration": "HSS",
+    "controls": [
+      "1 x Master Volume",
+      "2 x Tone (Neck & Middle, Bridge)",
+      "5-Way Pickup Selector Switch"
+    ],
+    "hardware": {
+      "tuners": "Locking",
+      "tunerBrand": "Grover",
+      "nut": {
+        "material": "Bone",
+        "width": {
+          "value": 1.685,
+          "unit": "inches"
+        }
+      }
+    },
+    "strings": {
+      "gauge": ".009-.042",
+      "material": "Nickel Plated Steel"
+    },
+    "weight": {
+      "value": 7.5,
+      "unit": "lbs"
+    },
+    "dimensions": {
+      "length": 38.5,
+      "width": 12.75,
+      "depth": 1.75,
+      "unit": "inches"
+    },
+    "case": "Hardshell case included",
+    "accessories": [
+      "Tremolo arm",
+      "Allen wrench set",
+      "Polishing cloth"
+    ],
+    "warranty": {
+      "period": 5,
+      "unit": "years"
+    },
+    "countryOfOrigin": "USA",
+    "ratings": {
+      "average": 4.9,
+      "count": 156
+    },
+    "images": [
+      "https://example.com/images/sonicmaster-pro-front.jpg",
+      "https://example.com/images/sonicmaster-pro-back.jpg",
+      "https://example.com/images/sonicmaster-pro-headstock.jpg"
+    ],
+    "features": [
+      "Premium tonewoods",
+      "Versatile pickup configuration",
+      "Smooth tremolo system",
+      "Locking tuners for improved tuning stability",
+      "Custom wound pickups"
+    ],
+    "soundSamples": [
+      "https://example.com/audio/sonicmaster-pro-clean.mp3",
+      "https://example.com/audio/sonicmaster-pro-overdriven.mp3",
+      "https://example.com/audio/sonicmaster-pro-lead.mp3"
+    ]
+}

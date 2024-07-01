@@ -1,0 +1,74 @@
+{
+    "name": "Mid-Century Modern Sofa",
+    "sku": "MCM-SOFA-3S",
+    "price": 899.99,
+    "currency": "USD",
+    "category": "Furniture",
+    "subcategory": "Living Room",
+    "brand": "RetroChic",
+    "model": "Eames-inspired 3-Seater",
+    "inStock": true,
+    "quantity": 15,
+    "description": "Elegant mid-century modern sofa featuring clean lines, tapered legs, and comfortable tufted cushions. Perfect for adding a touch of retro charm to your living space.",
+    "color": "Charcoal Gray",
+    "material": {
+      "frame": "Solid Oak",
+      "upholstery": "100% Polyester",
+      "legs": "Walnut-stained Beechwood"
+    },
+    "dimensions": {
+      "width": 84,
+      "depth": 35,
+      "height": 31,
+      "seatHeight": 17,
+      "unit": "inches"
+    },
+    "weight": {
+      "value": 150,
+      "unit": "pounds"
+    },
+    "maxWeightCapacity": {
+      "value": 750,
+      "unit": "pounds"
+    },
+    "assemblyRequired": true,
+    "assemblyTime": {
+      "value": 45,
+      "unit": "minutes"
+    },
+    "features": [
+      "Tufted back cushions",
+      "Removable seat cushions",
+      "Tapered wooden legs",
+      "Firm foam padding"
+    ],
+    "care": [
+      "Vacuum regularly",
+      "Spot clean with mild soap and water",
+      "Professional cleaning recommended for tough stains"
+    ],
+    "warranty": {
+      "frame": {
+        "period": 5,
+        "unit": "years"
+      },
+      "upholstery": {
+        "period": 1,
+        "unit": "year"
+      }
+    },
+    "ratings": {
+      "average": 4.6,
+      "count": 89
+    },
+    "images": [
+      "https://example.com/images/mcm-sofa-front.jpg",
+      "https://example.com/images/mcm-sofa-angle.jpg",
+      "https://example.com/images/mcm-sofa-detail.jpg"
+    ],
+    "relatedProducts": [
+      "MCM-CHAIR-1S",
+      "MCM-OTTOMAN",
+      "MCM-COFTABLE"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Wireless Bluetooth Headphones",
+  "sku": "WBH-2024",
+  "price": 79.99,
+  "currency": "USD",
+  "category": "Electronics",
+  "subcategory": "Audio",
+  "brand": "SoundWave",
+  "model": "SW-500",
+  "color": "Black",
+  "inStock": true,
+  "quantity": 250,
+  "description": "High-quality wireless headphones with noise-cancellation technology and long battery life.",
+  "features": [
+    "Bluetooth 5.0",
+    "Active Noise Cancellation",
+    "40-hour battery life",
+    "Comfortable over-ear design",
+    "Built-in microphone for calls"
+  ],
+  "dimensions": {
+    "length": 7.5,
+    "width": 6.3,
+    "height": 3.2,
+    "unit": "inches"
+  },
+  "weight": {
+    "value": 0.55,
+    "unit": "pounds"
+  },
+  "ratings": {
+    "average": 4.7,
+    "count": 1283
+  },
+  "images": [
+    "https://example.com/images/headphones-front.jpg",
+    "https://example.com/images/headphones-side.jpg",
+    "https://example.com/images/headphones-folded.jpg"
+  ],
+  "warranty": {
+    "period": 2,
+    "unit": "years"
+  }
+}
